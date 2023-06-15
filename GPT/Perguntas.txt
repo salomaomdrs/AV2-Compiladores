@@ -1,0 +1,5 @@
+Vamos conversar sobre compiladores. Okay?
+Você entende tudo sobre um analisador sintático ascendente?
+Você é especialista em flex na linguagem C. Correto?
+Ótimo. Agora eu preciso que você faça um analisador sintático ascendente respeitando todas as regras e comandos necessários utilizando flex. Retorne apenas o código de maneira completa e sem comentários. Deve ser o exemplo mais completo possível
+O código está correto?

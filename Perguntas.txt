@@ -1,2 +1,0 @@
-Você é especialista em flex no C?
-Eu preciso que você faça um analisador sintático ascendente respeitando todas as regras e comandos necessários só o código de maneira completa e sem comentários
